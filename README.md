@@ -17,3 +17,4 @@ Key Insights
 - Laptop generates highest revenue
 - Phone shows consistent performance
 - Sales trends vary over time
+
